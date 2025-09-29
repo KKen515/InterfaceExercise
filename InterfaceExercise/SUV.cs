@@ -10,14 +10,4 @@ public class SUV : ICompany, IVehicle
     public string RideColor { get; set; }
     public string LicensePlate { get; set; }
     public int Mileage { get; set; }
-
-
-
-    public void SUVDrive()
-    {
-        
-    }
-    
-    
-    
 }
